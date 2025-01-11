@@ -8,4 +8,5 @@
 
 | <img src="bing-search-center/未使用脚本.png" style="zoom: 50%;" /> | <img src="bing-search-center/使用脚本.png" style="zoom:50%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="bing-search-center/禁用隐藏相关搜索功能.png" style="zoom: 50%;" /> | <img src="bing-search-center/启用隐藏相关搜索功能.png" style="zoom:50%;" /> |
 
